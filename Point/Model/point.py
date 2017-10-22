@@ -1,8 +1,8 @@
 class Point():
 
-    def __init__(self,x,y):
-        self.x = x
-        self.y = y
+    def __init__(self, Pontox=0,Pontoy=0):
+        self.x = Pontox
+        self.y = Pontoy
 
 
     def SolicitarPontos(self):
